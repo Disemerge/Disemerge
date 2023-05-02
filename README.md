@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a 16 yr old developer in Australia.<br>I'm interested in reverse engineering, programming and more!</p>
+<p align="left"><br>I'm interested in reverse engineering, programming and more!</p>
 
 ###
 
